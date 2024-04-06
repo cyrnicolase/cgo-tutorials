@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "LICENSE": "go",
+        "cgo_box.h": "c",
+        "iostream": "cpp"
+    }
+}
